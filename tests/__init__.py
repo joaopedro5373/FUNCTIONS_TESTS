@@ -1,0 +1,15 @@
+import tests.TEST_authenticateUser
+import tests.TEST_soma_int
+import tests.TEST_divide
+import tests.TEST_reverseString
+import tests.TEST_fatorial
+import tests.TEST_produto_int
+import tests.TEST_flatten_list
+import tests.TEST_is_prime
+import tests.TEST_environment_variable
+import tests.TEST_verificarSenha
+import tests.TEST_calculate_average
+import tests.TEST_word_occurrences
+import tests.TEST_soma_emptyString
+import tests.TEST_soma_float
+import tests.TEST_soma_float_floatString
